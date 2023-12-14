@@ -1,0 +1,545 @@
+Bubble Sort
+List size: 4
+Execution #0:
+Operations: 6
+Runtime: 0.000001100s
+Execution #1:
+Operations: 5
+Runtime: 0.000000600s
+Execution #2:
+Operations: 5
+Runtime: 0.000000700s
+Execution #3:
+Operations: 6
+Runtime: 0.000001000s
+Execution #4:
+Operations: 6
+Runtime: 0.000000700s
+Execution #5:
+Operations: 6
+Runtime: 0.000000800s
+Execution #6:
+Operations: 6
+Runtime: 0.000000800s
+Execution #7:
+Operations: 5
+Runtime: 0.000000700s
+Execution #8:
+Operations: 6
+Runtime: 0.000000700s
+Execution #9:
+Operations: 6
+Runtime: 0.000000700s
+Average operations: 0
+Average runtime: 0.000000780s
+
+List size: 16
+Execution #0:
+Operations: 114
+Runtime: 0.000004100s
+Execution #1:
+Operations: 99
+Runtime: 0.000003800s
+Execution #2:
+Operations: 120
+Runtime: 0.000005000s
+Execution #3:
+Operations: 110
+Runtime: 0.000004200s
+Execution #4:
+Operations: 110
+Runtime: 0.000004100s
+Execution #5:
+Operations: 114
+Runtime: 0.000004400s
+Execution #6:
+Operations: 120
+Runtime: 0.000004900s
+Execution #7:
+Operations: 119
+Runtime: 0.000006000s
+Execution #8:
+Operations: 114
+Runtime: 0.000005400s
+Execution #9:
+Operations: 114
+Runtime: 0.000004700s
+Average operations: 110
+Average runtime: 0.000004660s
+
+List size: 64
+Execution #0:
+Operations: 2015
+Runtime: 0.000093700s
+Execution #1:
+Operations: 1971
+Runtime: 0.000060300s
+Execution #2:
+Operations: 1863
+Runtime: 0.000058600s
+Execution #3:
+Operations: 2015
+Runtime: 0.000062400s
+Execution #4:
+Operations: 2013
+Runtime: 0.000064700s
+Execution #5:
+Operations: 1911
+Runtime: 0.000062500s
+Execution #6:
+Operations: 1961
+Runtime: 0.000060800s
+Execution #7:
+Operations: 1995
+Runtime: 0.000072200s
+Execution #8:
+Operations: 2015
+Runtime: 0.000063000s
+Execution #9:
+Operations: 2016
+Runtime: 0.000062800s
+Average operations: 1974
+Average runtime: 0.000066100s
+
+List size: 256
+Execution #0:
+Operations: 32574
+Runtime: 0.000977500s
+Execution #1:
+Operations: 32487
+Runtime: 0.000543900s
+Execution #2:
+Operations: 32574
+Runtime: 0.000116300s
+Execution #3:
+Operations: 32387
+Runtime: 0.000095900s
+Execution #4:
+Operations: 32520
+Runtime: 0.000094000s
+Execution #5:
+Operations: 32450
+Runtime: 0.000095700s
+Execution #6:
+Operations: 32262
+Runtime: 0.000095400s
+Execution #7:
+Operations: 32630
+Runtime: 0.000146500s
+Execution #8:
+Operations: 32637
+Runtime: 0.000126300s
+Execution #9:
+Operations: 32469
+Runtime: 0.000121000s
+Average operations: 32495
+Average runtime: 0.000241250s
+
+List size: 1024
+Execution #0:
+Operations: 521760
+Runtime: 0.000889700s
+Execution #1:
+Operations: 521075
+Runtime: 0.000835800s
+Execution #2:
+Operations: 523721
+Runtime: 0.000703700s
+Execution #3:
+Operations: 522741
+Runtime: 0.000704600s
+Execution #4:
+Operations: 523586
+Runtime: 0.000699000s
+Execution #5:
+Operations: 522873
+Runtime: 0.000692200s
+Execution #6:
+Operations: 521696
+Runtime: 0.000641500s
+Execution #7:
+Operations: 523341
+Runtime: 0.000688900s
+Execution #8:
+Operations: 523370
+Runtime: 0.000768300s
+Execution #9:
+Operations: 521001
+Runtime: 0.000676300s
+Average operations: 522514
+Average runtime: 0.000730000s
+
+List size: 4096
+Execution #0:
+Operations: 8383785
+Runtime: 0.008215100s
+Execution #1:
+Operations: 8384075
+Runtime: 0.008246700s
+Execution #2:
+Operations: 8380995
+Runtime: 0.008605400s
+Execution #3:
+Operations: 8383634
+Runtime: 0.008170600s
+Execution #4:
+Operations: 8379774
+Runtime: 0.008092700s
+Execution #5:
+Operations: 8386095
+Runtime: 0.008342600s
+Execution #6:
+Operations: 8378810
+Runtime: 0.008068200s
+Execution #7:
+Operations: 8373519
+Runtime: 0.007981600s
+Execution #8:
+Operations: 8370450
+Runtime: 0.007973500s
+Execution #9:
+Operations: 8384480
+Runtime: 0.008075600s
+Average operations: 8380558
+Average runtime: 0.008177200s
+
+List size: 16384
+Execution #0:
+Operations: 134166758
+Runtime: 0.281134300s
+Execution #1:
+Operations: 134186745
+Runtime: 0.285230000s
+Execution #2:
+Operations: 134177405
+Runtime: 0.279130500s
+Execution #3:
+Operations: 134205531
+Runtime: 0.273483100s
+Execution #4:
+Operations: 134199945
+Runtime: 0.272815800s
+Execution #5:
+Operations: 134209508
+Runtime: 0.273200900s
+Execution #6:
+Operations: 134175083
+Runtime: 0.282377900s
+Execution #7:
+Operations: 134200356
+Runtime: 0.272706900s
+Execution #8:
+Operations: 134162258
+Runtime: 0.282407800s
+Execution #9:
+Operations: 134119436
+Runtime: 0.274263400s
+Average operations: 134180297
+Average runtime: 0.277675060s
+
+List size: 65536
+Execution #0:
+Operations: 2147365802
+Runtime: 4.892980000s
+Execution #1:
+Operations: 2147447720
+Runtime: 4.928947100s
+Execution #2:
+Operations: 2147367444
+Runtime: 4.910756000s
+Execution #3:
+Operations: 2147379249
+Runtime: 4.918770500s
+Execution #4:
+Operations: 2147433489
+Runtime: 4.925547900s
+Execution #5:
+Operations: 2147413205
+Runtime: 4.949890000s
+Execution #6:
+Operations: 2147261460
+Runtime: 4.930729300s
+Execution #7:
+Operations: 2147435304
+Runtime: 4.919166100s
+Execution #8:
+Operations: 2147416427
+Runtime: 4.949506100s
+Execution #9:
+Operations: 2147279475
+Runtime: 4.933391100s
+Average operations: 2147379953
+Average runtime: 4.925968410s
+
+Quick Sort
+List size: 4
+Execution #0:
+Operations: 3
+Runtime: 0.000001400s
+Execution #1:
+Operations: 5
+Runtime: 0.000001700s
+Execution #2:
+Operations: 5
+Runtime: 0.000001200s
+Execution #3:
+Operations: 4
+Runtime: 0.000001300s
+Execution #4:
+Operations: 4
+Runtime: 0.000001100s
+Execution #5:
+Operations: 6
+Runtime: 0.000001100s
+Execution #6:
+Operations: 3
+Runtime: 0.000000800s
+Execution #7:
+Operations: 4
+Runtime: 0.000001000s
+Execution #8:
+Operations: 5
+Runtime: 0.000001600s
+Execution #9:
+Operations: 6
+Runtime: 0.000001200s
+Average operations: 0
+Average runtime: 0.000001240s
+
+List size: 16
+Execution #0:
+Operations: 56
+Runtime: 0.000761900s
+Execution #1:
+Operations: 63
+Runtime: 0.000006900s
+Execution #2:
+Operations: 50
+Runtime: 0.000005900s
+Execution #3:
+Operations: 51
+Runtime: 0.000005400s
+Execution #4:
+Operations: 46
+Runtime: 0.000005500s
+Execution #5:
+Operations: 46
+Runtime: 0.000005000s
+Execution #6:
+Operations: 51
+Runtime: 0.000005400s
+Execution #7:
+Operations: 46
+Runtime: 0.000007400s
+Execution #8:
+Operations: 39
+Runtime: 0.000005300s
+Execution #9:
+Operations: 52
+Runtime: 0.000005600s
+Average operations: 46
+Average runtime: 0.000081430s
+
+List size: 64
+Execution #0:
+Operations: 330
+Runtime: 0.000019500s
+Execution #1:
+Operations: 346
+Runtime: 0.000019100s
+Execution #2:
+Operations: 333
+Runtime: 0.000019000s
+Execution #3:
+Operations: 331
+Runtime: 0.000019200s
+Execution #4:
+Operations: 341
+Runtime: 0.000020200s
+Execution #5:
+Operations: 345
+Runtime: 0.000018100s
+Execution #6:
+Operations: 315
+Runtime: 0.000019100s
+Execution #7:
+Operations: 348
+Runtime: 0.000018400s
+Execution #8:
+Operations: 365
+Runtime: 0.000019100s
+Execution #9:
+Operations: 335
+Runtime: 0.000017400s
+Average operations: 335
+Average runtime: 0.000018910s
+
+List size: 256
+Execution #0:
+Operations: 1916
+Runtime: 0.000088200s
+Execution #1:
+Operations: 1987
+Runtime: 0.000088300s
+Execution #2:
+Operations: 1920
+Runtime: 0.000124300s
+Execution #3:
+Operations: 1875
+Runtime: 0.000084300s
+Execution #4:
+Operations: 2011
+Runtime: 0.000083900s
+Execution #5:
+Operations: 1943
+Runtime: 0.000082400s
+Execution #6:
+Operations: 1998
+Runtime: 0.000081400s
+Execution #7:
+Operations: 1845
+Runtime: 0.000096300s
+Execution #8:
+Operations: 1852
+Runtime: 0.000082200s
+Execution #9:
+Operations: 1868
+Runtime: 0.000080000s
+Average operations: 1917
+Average runtime: 0.000089130s
+
+List size: 1024
+Execution #0:
+Operations: 10105
+Runtime: 0.000374200s
+Execution #1:
+Operations: 10336
+Runtime: 0.000377400s
+Execution #2:
+Operations: 11326
+Runtime: 0.000405400s
+Execution #3:
+Operations: 9822
+Runtime: 0.000370600s
+Execution #4:
+Operations: 9778
+Runtime: 0.000120000s
+Execution #5:
+Operations: 10327
+Runtime: 0.000129300s
+Execution #6:
+Operations: 9931
+Runtime: 0.000100100s
+Execution #7:
+Operations: 10253
+Runtime: 0.000092900s
+Execution #8:
+Operations: 10579
+Runtime: 0.000098600s
+Execution #9:
+Operations: 10371
+Runtime: 0.000099600s
+Average operations: 10278
+Average runtime: 0.000216810s
+
+List size: 4096
+Execution #0:
+Operations: 51887
+Runtime: 0.000366000s
+Execution #1:
+Operations: 49188
+Runtime: 0.000346600s
+Execution #2:
+Operations: 50283
+Runtime: 0.000347300s
+Execution #3:
+Operations: 50336
+Runtime: 0.000342900s
+Execution #4:
+Operations: 49815
+Runtime: 0.000342000s
+Execution #5:
+Operations: 48975
+Runtime: 0.000343700s
+Execution #6:
+Operations: 53596
+Runtime: 0.000356300s
+Execution #7:
+Operations: 50857
+Runtime: 0.000345400s
+Execution #8:
+Operations: 49565
+Runtime: 0.000344800s
+Execution #9:
+Operations: 53180
+Runtime: 0.000352400s
+Average operations: 50763
+Average runtime: 0.000348740s
+
+List size: 16384
+Execution #0:
+Operations: 246133
+Runtime: 0.001604100s
+Execution #1:
+Operations: 251824
+Runtime: 0.001762900s
+Execution #2:
+Operations: 237241
+Runtime: 0.001584900s
+Execution #3:
+Operations: 243283
+Runtime: 0.001600200s
+Execution #4:
+Operations: 236547
+Runtime: 0.001572700s
+Execution #5:
+Operations: 253169
+Runtime: 0.001619600s
+Execution #6:
+Operations: 232988
+Runtime: 0.001476600s
+Execution #7:
+Operations: 248119
+Runtime: 0.001225900s
+Execution #8:
+Operations: 243948
+Runtime: 0.001384600s
+Execution #9:
+Operations: 234617
+Runtime: 0.001251600s
+Average operations: 242781
+Average runtime: 0.001508310s
+
+List size: 65536
+Execution #0:
+Operations: 1116291
+Runtime: 0.005352800s
+Execution #1:
+Operations: 1121475
+Runtime: 0.005380500s
+Execution #2:
+Operations: 1134379
+Runtime: 0.005328300s
+Execution #3:
+Operations: 1138257
+Runtime: 0.006167000s
+Execution #4:
+Operations: 1101792
+Runtime: 0.005398100s
+Execution #5:
+Operations: 1149983
+Runtime: 0.005498300s
+Execution #6:
+Operations: 1112382
+Runtime: 0.005673400s
+Execution #7:
+Operations: 1204588
+Runtime: 0.005538000s
+Execution #8:
+Operations: 1093230
+Runtime: 0.005367500s
+Execution #9:
+Operations: 1112078
+Runtime: 0.005201000s
+Average operations: 1128441
+Average runtime: 0.005490490s
